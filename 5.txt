@@ -1,0 +1,6 @@
+1.navigate a website which you want to go.
+get the website link to crawl.
+you can use python to crawl website.
+
+select the image you want to save.
+Then right click on the image and click on download image option.
